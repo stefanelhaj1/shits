@@ -1,0 +1,47 @@
+    body {
+        background-color: #a5e7ee;
+        text-align: center;
+}
+
+    a {
+        text-decoration: none;
+}
+
+    button {
+        background-color: rgb(77, 112, 162);
+        color: #14bdff;
+        border: 5px solid #2695cc;
+        align-items: center;
+        border-radius: 30px;
+        padding: 20px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 40px;
+        margin: 5px 2px;
+        position: center;
+        margin: auto;
+        display: block;
+        justify-content: center;
+}
+
+    
+    .nav a {
+        overflow: hidden;
+        float: center;
+        color: #d8f4ff;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+
+    .container {
+        padding-top: 30px;
+    }
+
+    img {
+        padding: none;
+        margin: none;
+    }
